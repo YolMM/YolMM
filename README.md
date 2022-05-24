@@ -4,7 +4,8 @@
 
 ## Hello 🌎
 
-👋 My name is Yolanda and I've recently started my career as full-stack developer.
+👋 My name is Yolanda and I've recently started my career as back-end developer.
+I studied a Cloud Native Web Development Bootcamp at [CORE Code School](https://github.com/core-school).
 <br></br>
 ### Where can I be found?
 
